@@ -1,0 +1,29 @@
+{
+  "name": "zjhexpress",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "crypto-js": "^4.1.1",
+    "debug": "~2.6.9",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1",
+    "node": "^17.7.2",
+    "nodemon": "^2.0.16",
+    "openssl": "^2.0.0",
+    "ws": "^8.6.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "sqlite3": "^5.0.8"
+  }
+}
