@@ -1,0 +1,2 @@
+# loginDemo-express
+使用express框架配合sqlit3数据库于本地搭建服务，建立用户数据库、实现用户的增删改查以及登录功能，通过加密库crypto-js进行密码的加密以及解密
